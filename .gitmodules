@@ -1,0 +1,3 @@
+[submodule "shopeelib"]
+	path = shopeelib
+	url = https://github.com/Vaziria/shopeelib

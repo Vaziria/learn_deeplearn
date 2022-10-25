@@ -9,6 +9,11 @@ tensorflow = "*"
 matplotlib = "*"
 sklearn = "*"
 jupyterlab = "*"
+nisa-di = "*"
+httpx = "*"
+pydantic = "*"
+retry = "*"
+pandas = "*"
 
 [dev-packages]
 
